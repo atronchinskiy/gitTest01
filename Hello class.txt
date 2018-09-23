@@ -1,4 +1,4 @@
-print hello
-print hello word
-prin hi
-print my darling
+print hello;
+print hello word;
+prin hi;
+print my darling;
